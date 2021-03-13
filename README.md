@@ -1,4 +1,4 @@
-[more about me](v8tenko.ru)
+[more about me](https://v8tenko.ru)
 ```kotlin
 val v8tenko = buildProgrammer {
     name("Gleb Voitenko")
