@@ -2,7 +2,7 @@
 ```kotlin
 val v8tenko = buildProgrammer {
     name("Gleb Voitenko")
-    age(18)
+    age(19)
     stack(listOf("Mobile", "Web"))
     work(Yandex.Toloka)
 }
