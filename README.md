@@ -12,7 +12,7 @@ export const v8tenko = {
             type: 'Frontend',
             stack: ['React', 'MobX', 'TypeScript', 'Jest']
         },
-        interests: ['Node.js', 'Algorithms', 'CI']
+        interests: ['Node.js', 'Algorithms', 'CI', 'low-level code', 'Rust']
     },
     social: {
         telegram: 't.me/v8tenko',
