@@ -8,7 +8,7 @@ export const v8tenko = {
         position: 'middle frontend developer'
     },
     specialization: {
-        main: {
+        main: {                                
             type: 'Frontend',
             stack: ['React', 'MobX', 'TypeScript', 'Jest']
         },
@@ -20,4 +20,4 @@ export const v8tenko = {
     }
 } as const;
 ```
-more about me at v8tenko.tech
+more about me at [v8tenko.tech](https://v8tenko.tech)
