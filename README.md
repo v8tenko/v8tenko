@@ -4,7 +4,6 @@ export const v8tenko = {
     handle: 'v8tenko',
     place: ['Russia', 'Saint-Petersburg'],
     work: {
-        organization: 'Yandex.Cloud',
         position: 'middle frontend developer'
     },
     specialization: {
