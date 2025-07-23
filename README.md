@@ -19,4 +19,3 @@ export const v8tenko = {
     }
 } as const;
 ```
-more about me at [v8tenko.tech](https://v8tenko.tech)
